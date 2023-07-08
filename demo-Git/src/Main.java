@@ -13,4 +13,15 @@ public class Main {
 
         System.out.println("test change");
     }
+
+
+
+    public void testOne () {
+        System.out.println("testOne method");
+    }
+
+
+    public void testTwo () {
+        System.out.println("testTwo method");
+    }
 }
